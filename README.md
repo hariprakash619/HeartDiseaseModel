@@ -14,7 +14,8 @@ selection. 3)Exploratory data analysis which guides the extraction of vital insi
 XGBoost and ensemble methods to ensures optimal model
 performance.
 The project integrates diverse classification algorithms, enabling a comprehensive evaluation. This project offers a detailed glimpse into our systematic methodology, emphasizing
-its iterative nature and commitment to enhan
+its iterative nature and commitment to enhance predictive
+accuracy in cardiovascular disease detection.
 
 ![image](https://github.com/hariprakash619/HeartDiseaseModel/assets/14228793/1c51894c-6ad4-4e2f-ab7f-ce230b825baa)
 

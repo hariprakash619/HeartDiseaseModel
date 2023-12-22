@@ -16,3 +16,6 @@ performance.
 The project integrates diverse classification algorithms, enabling a comprehensive evaluation. This project offers a detailed glimpse into our systematic methodology, emphasizing
 its iterative nature and commitment to enhan
 
+![image](https://github.com/hariprakash619/HeartDiseaseModel/assets/14228793/1c51894c-6ad4-4e2f-ab7f-ce230b825baa)
+
+
